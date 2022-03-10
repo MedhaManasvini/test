@@ -1,0 +1,18 @@
+body{
+    background-color: lightgoldenrodyellow;
+    color: blueviolet;
+}
+
+.heading{
+    width: 60%;
+    font-size: 22px;
+}
+.name-of-objects{
+    color: deeppink;
+}
+#camera{
+    border: 2px dashed yellow;
+    width: 70%;
+    height: 70%;
+    
+}
